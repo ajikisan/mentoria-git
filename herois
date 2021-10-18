@@ -1,0 +1,29 @@
+Carol Danvers - Capitã Marvel - possui poderes cósmicos após um incidente com uma tecnologia alienígena kree adquiriu super-força, super-resistência, fator de cura, vôo, super-velocidade, projeção e absorção de energia.
+Susan Storm - Quarteto Fantástico - cria campos de energia na forma de barreiras defensivas.
+Wanda Maximof - Feiticeira Escarlate - Seu poder é conhecido como "Magia do Caos", têm a capacidade de alterar a realidade através de seus pensamentos.
+Gamora - Guardiões da Galáxia e Vingadores - conhecida como a "mulher mais perigosa da galáxia", têm força, velocidade, resistência e reflexos muito superiores aos de uma pessoa comum.
+Ororo Munroe - Tempestade - X-Men é capaz de criar chuvas torrenciais, ventos poderosos e relâmpagos destruidores.
+Jean Grey - Fênix Negra - X-Men - Telepata, capacidade de intervir nos pensamentos de oponentes e criar experiências e ilusões, habilidade de manipular e até apagar ou implantar memórias, controle de mentes, alteração de personalidade, capacidade de inibir os poderes de adversários, mortais explosões de energia, telequinesia e projeção astral são alguns de seus poderes.
+
+fonte: https://www.aficionados.com.br/super-heroinas-marvel/ 18/10/2021
+
+Aula sobre git com Lucas Alves - everi -QA
+
+Praticando com git
+git init - inicializa um repositório do Git vazio, mas omite o diretório de trabalho.
+git status - mostra a situação atual da pasta
+git add - adiciona novos arquivos ou arquivos alterados no diretório de trabalho
+git commit -m "mensagem" - digitar de modo claro a mudança ou situação que ocorreu
+git branch "nome branch" criado através 
+git checkout "nome branch" mudou para trabalhar com a branch 
+git log - rastreia o autor que realizou o commit, email, data, etc;
+git clone - copia o repositorio
+git pull - incorpora as alterações de um repositório remoto no ramo atual.
+git push - transmite as ramificações locais para o servidor remoto especificado.
+git merge - combina várias sequências de commits em um histórico unificado.
+git help - biblioteca
+git graph - mostra em forma gráfica as ramificações dos acontecimentos.
+git --abort  - descontinua a atividade antes de salvar
+git diff - verifica os pontos padrões de fluxo de trabalho em que foi alterado.
+nano - é um editor de texto para ambientes usando command line
+cat - mostra o conteúdo dentro do arquivo nano
